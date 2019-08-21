@@ -64,7 +64,7 @@
    This Example will list all certificates associated with all Application Gateways and show all Details about them: "Get-AzAppGWCert -Details"   
 
 # A URL to the main website for this project.
-ProjectUri = 'https://github.com/Welasco/AzAppGWCert'
+ProjectUri = 'https://github.com/CyanMass45/AzureRMAppGWCert'
 #>
 
 Function Get-AzAppGWCert{
